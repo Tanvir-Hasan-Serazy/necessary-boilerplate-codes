@@ -21,4 +21,5 @@ $ -> End of the line
 :%s/foo/bar/g -> Replaces all occurrences of "foo" with "bar" throughout the entire file ("%" for all lines).
 :noh -> To turn off highlighting until the next search
 shift v -> to select the whole line
+Shift 8 -> jump to the exact word under cursor
 ```
